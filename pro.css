@@ -1,0 +1,63 @@
+.pst{
+    padding-left: 20%;
+}
+.go-center{
+    margin: 0 auto;
+}
+.hl100{
+    height: 700px;
+}
+.mar10{
+    margin-top: 10px;
+}
+img{
+    border-radius: 4px;
+}
+img.d-block.w-100.hl100 {
+    height: 500px;
+}
+.marb10{
+    margin-bottom: 20px;
+}
+.mar11{
+    margin-top: 20px;
+}
+#aa{
+    font-size: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 0 auto;
+    width: 423px;
+}
+.ll{
+    padding-top: 20px;
+}
+.pad{
+    padding:20px ;
+}
+#name{
+    font :2em;
+    padding-left: 10px;
+    display: flex;
+}
+#name img{
+    justify-content: center;
+}
+#kk{
+    padding-left: 2%;
+    font-size: 18px;
+}
+span{
+    font-size: 25px;
+}
+.grd{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+#cost{
+border-radius: 50% !important;
+height: 50px;
+}
+
+.open{
+    transform: rotate(359deg);
+}
